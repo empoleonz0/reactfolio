@@ -24,14 +24,14 @@ const INFO = {
 	about: {
 		title: "My name is Grant Way",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I am a recently graduated full-stack javascript developer. I have made this portfolio website to talk about myself and share my work with the world.",
 	},
 
 	projects: [
 		{
 			title: "Vase Shopper",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Vase Shopper is an e-commerce website that allows users to register, login, browse and add wares to their shopping cart, check out, and view their order history.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://vaseshopper-ufd3.onrender.com/",
@@ -42,7 +42,7 @@ const INFO = {
 		{
 			title: "Reel Relations",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Reel Relations allows users to search for connections between two actors that uses a breadth-first search algorithm in order to generate a 'path' between two actors based on the co-actors they have worked with and produces a flowchart to visualize this connection.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://reel-relations-pecz.onrender.com/",
