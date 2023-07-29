@@ -17,7 +17,7 @@
 	transition: background-color 0.3s ease-in-out;
 }
 
-.project:hover .project-link {
+.project-link:hover {
 	color: var(--link-color);
 	transition: color 0.3s ease-in-out;
 }
@@ -60,7 +60,7 @@
 	font-size: 13px;
 }
 
-.project-link-text {
+.project-link-text .github-link-text {
 	padding-left: 20px;
 	font-weight: 700;
 }
