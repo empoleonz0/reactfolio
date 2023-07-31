@@ -3,4 +3,7 @@
 	display: block;
 	margin: 0;
 	padding: 0;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #DC143C;
 }
