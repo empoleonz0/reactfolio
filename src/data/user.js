@@ -42,7 +42,7 @@ const INFO = {
 		{
 			title: "Reel Relations",
 			description:
-				"Reel Relations allows users to search for connections between two actors that uses a breadth-first search algorithm in order to generate a 'path' between two actors based on the co-actors they have worked with and produces a flowchart to visualize this connection.",
+				"Reel Relations allows users to search for connections between two actors that uses a breadth-first search algorithm in order to generate a 'path' between two actors based on the co-actors they have worked with and produces a flowchart to visualize this connection. Note: Due to deployment limitations, the website runs slowly and uses a limited movies and actors database, but it does function as intended.",
 			logo: "../film.png",
 			linkText: "View Project",
 			link: "https://reel-relations-pecz.onrender.com/",
