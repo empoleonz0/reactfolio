@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-stack javascript developer, reporting for duty!",
 		description:
 			"Welcome to my portfolio website. I made this website to share things about myself, some of the things I've worked on, as well as my contact information for anyone interested in getting in touch with me.",
 	},
@@ -24,7 +24,7 @@ const INFO = {
 	about: {
 		title: "My Name is Grant Way",
 		description:
-			"I majored in Bioengineering at UCSD and graduated in 2020. A few months ago, I began learning some Javascript, and realized that I have a passion for logical and elegant solutions in coding and was immediately engaged. Now that I'm a graduate of Fullstack Academy, I hope to bring said passion and problem solving skills into the tech industry.",
+			"I majored in Bioengineering at UCSD and graduated in 2020. In my free time, I like to hang out with my friends and play video games. A few months ago, I began learning some Javascript, and realized that I have a passion for logical and elegant solutions in coding and was immediately engaged. Now that I'm a graduate of Fullstack Academy, I hope to bring said passion and problem solving skills into the tech industry.",
 	},
 
 	projects: [
