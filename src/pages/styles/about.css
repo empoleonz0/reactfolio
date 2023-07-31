@@ -53,9 +53,6 @@
 	width: 100%;
 	border-radius: 10%;
 	transform: rotate(3deg);
-	border-width: 3px;
-	border-style: solid;
-	border-color: #DC143C;
 }
 
 .about-image-wrapper img {
