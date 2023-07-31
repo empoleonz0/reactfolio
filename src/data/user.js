@@ -22,7 +22,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "My Name is Grant Way",
+		title: "My name is Grant Way",
 		description:
 			"I majored in Bioengineering at UCSD and graduated in 2020. In my free time, I like to hang out with my friends and play video games. A few months ago, I began learning some Javascript, and realized that I have a passion for logical and elegant solutions in coding and was immediately engaged. Now that I'm a graduate of Fullstack Academy, I hope to bring said passion and problem solving skills into the tech industry.",
 	},
