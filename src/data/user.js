@@ -18,13 +18,13 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web and mobile app developer, and amateur astronaut.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Welcome to my portfolio website. I made this website to share things about myself, some of the things I've worked on, as well as my contact information for anyone interested in getting in touch with me.",
 	},
 
 	about: {
-		title: "My name is Grant Way",
+		title: "My Name is Grant Way",
 		description:
-			"I am a recently graduated full-stack javascript developer. I have made this portfolio website to talk about myself and share my work with the world.",
+			"I majored in Bioengineering at UCSD and graduated in 2020. A few months ago, I began learning some Javascript, and realized that I have a passion for logical and elegant solutions in coding and was immediately engaged. Now that I'm a graduate of Fullstack Academy, I hope to bring said passion and problem solving skills into the tech industry.",
 	},
 
 	projects: [
@@ -32,7 +32,7 @@ const INFO = {
 			title: "Vase Shopper",
 			description:
 				"Vase Shopper is an e-commerce website that allows users to register, login, browse and add wares to their shopping cart, check out, and view their order history.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "../vase.png",
 			linkText: "View Project",
 			link: "https://vaseshopper-ufd3.onrender.com/",
 			githubLinkText: "View Code",
@@ -43,7 +43,7 @@ const INFO = {
 			title: "Reel Relations",
 			description:
 				"Reel Relations allows users to search for connections between two actors that uses a breadth-first search algorithm in order to generate a 'path' between two actors based on the co-actors they have worked with and produces a flowchart to visualize this connection.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			logo: "../film.png",
 			linkText: "View Project",
 			link: "https://reel-relations-pecz.onrender.com/",
 			githubLinkText: "View Code",
